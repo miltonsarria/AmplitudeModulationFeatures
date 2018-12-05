@@ -2,11 +2,13 @@
 AAMF: Auditory-inspired amplitude modulation features
 
 Milton Orlando Sarria
-milton.sarria00@usc.edu.co
+
+Universidad Santiago de Cali
 
 
 ## papers:
 Milton Sarria-Paja, Tiago H. Falk, Fusion of auditory inspired amplitude modulation spectrum and cepstral features for whispered and normal speech speaker verification, Computer Speech & Language, Volume 45, 2017.
+
 Milton Sarria-Paja and Tiago H. Falk, Whispered Speech Detection in Noise Using Auditory-Inspired Modulation Spectrum Features. IEEE Signal Processing Letters, Vol. 20, No. 8, pp. 783-786, Aug. 2013. 
 
 
@@ -32,4 +34,8 @@ to compute the pca model, if you are going to use a big database, then
 you should use a different algorithm to compute the pca model. we used an 
 iterative alorithm to compute the mean and the covariance matrix before 
 applying singular value decomposition SVD (computePCAmodel_itera.m)
+
+
+run example_MAIN.m 
+
 
